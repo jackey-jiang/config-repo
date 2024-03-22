@@ -3,7 +3,7 @@
 滴答 7.0.21
 
 [rewrite_local]
-https://ticktick.com/api/v2/user/status url script-response-body https://cdn.jsdelivr.net/gh/jackey-jiang/config-repo@master/ddqd.js
+https://ticktick.com/api/v2/user/status url script-response-body https://cdn.jsdelivr.net/gh/jackey-jiang/config-repo@master/ddqd-sf.js
 
 [mitm] 
 hostname = ticktick.com
